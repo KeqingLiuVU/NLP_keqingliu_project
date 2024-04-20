@@ -1,1 +1,1 @@
-# NLP_keqingliu_project
+# Detecting Suicide Discussion on Social Media Using NLP and Machine Learning 
